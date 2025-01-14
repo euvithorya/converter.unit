@@ -1,5 +1,5 @@
 # Meu Projeto
-Este é um projeto incrível que converte unidades.
+Este é um projeto que converte unidades.
 
 ## Como usar
 - Clone o repositório
